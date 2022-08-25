@@ -23,7 +23,7 @@ window.Config = {
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yiktt'
+      url: 'https://github.com/yiktt/uptime-status'
     },
     {
       text: 'Blog',
