@@ -1,4 +1,8 @@
-export const formatDuration = (seconds) => {
+export function formatNumber(value) {
+  return (Math.floor(value * 100) / 100).toString();
+}
+
+export function formatDuration(seconds) {
   let s = parseInt(seconds);
   let m = 0;
   let h = 0;
@@ -14,8 +18,4 @@ export const formatDuration = (seconds) => {
   if (m > 0) text = `${m} 分 ${text}`;
   if (h > 0) text = `${h} 小时 ${text}`;
   return text;
-}
-
-export const fixed = (value) => {
-  return (Math.floor(value * 100) / 100).toString();
 }

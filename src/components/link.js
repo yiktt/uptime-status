@@ -1,8 +1,8 @@
-import React from 'react';
-
-const Link = (props) => {
+function Link(props = { text, to }) {
   return (
-    <a {...props} href={props.to} target="_blank" rel="noopener noreferrer">{props.text}</a>
+    <a {...props} href={props.to} target='_blank'>
+      {props.text}
+    </a>
   );
 }
 
