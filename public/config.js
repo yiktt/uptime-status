@@ -26,10 +26,6 @@ window.Config = {
       url: '#'
     },
     {
-      text: '博客',
-      url: '#'
-    },
-    {
       text: 'GitHub',
       url: 'https://github.com/yiktt/uptime-status'
     },
