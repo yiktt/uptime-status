@@ -2,7 +2,7 @@
 - 本项目可以直接部署，快速上线，纯静态无需服务器。基于 UptimeRobot api 时时监控主机、网站、端口等在线状态；
 
 ## 在线体验：  
-美化版：<https://status.1e1.top/>  
+美化版：<https://status.eday.eu.org/>  
 ![](https://gcore.jsdelivr.net/gh/Qikaile/cdn/img/Snipaste_2022-08-09_09-25-53.jpg)
 
 ## 如何复用这个项目？  
