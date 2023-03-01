@@ -2,7 +2,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Yiktt的站点监控',
+  SiteName: '韭菜的站点监控',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -27,7 +27,7 @@ window.Config = {
     },
     {
       text: '博客',
-      url: 'https://1e1.top/'
+      url: '#'
     },
     {
       text: 'GitHub',
