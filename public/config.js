@@ -9,7 +9,6 @@ window.Config = {
   ApiKeys: [
     'm792540060-6779c1cde71fb7c146ff747d',
     'm792540118-a8ee603dc7eed45e653ba5be',
-    'm801247885-13b6aac35dd83b9042e13ed0',
   ],
 
     // 日志天数
